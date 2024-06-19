@@ -19,7 +19,7 @@ Install the required dependencies: pip install -r requirements.txt
 
 Run the development server: python manage.py runserver
 
-API Endpoints
+<b>API Endpoints</b><br>
 api/ register/ [name='register']<br>
 api/ verify/ [name='verify']<br>
 api/ login/ [name='login']<br>
